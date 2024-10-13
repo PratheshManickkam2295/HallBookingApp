@@ -1,0 +1,15 @@
+{
+  "customerName": "John Doe",
+  "totalBookings": 1,
+  "bookingDetails": [
+    {
+      "roomName": "Conference Room",
+      "date": "2024-10-15",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "bookingId": 1,
+      "bookingDate": "2024-10-12T08:45:22.198Z",
+      "status": "booked"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "roomName": "Conference Room",
+    "seats": 50,
+    "pricePerHour": 500,
+    "amenities": ["Projector", "Whiteboard"],
+    "bookings": [
+      {
+        "customerName": "John Doe",
+        "date": "2024-10-15",
+        "startTime": "10:00",
+        "endTime": "12:00",
+        "status": "booked"
+      }
+    ]
+  }
+]
